@@ -1,0 +1,97 @@
+  <i name="2001004">
+  <i name="ball">
+    <i name="0">
+      <i name="origin">
+        <i name="x" value="16"/>
+        <i name="y" value="16"/>
+      </i>
+      <i name="z" value="0"/>
+      <i name="delay" value="80"/>
+      <i name="image" value="2001004.ball.0.png"/>
+    </i>
+    <i name="1">
+      <i name="origin">
+        <i name="x" value="16"/>
+        <i name="y" value="16"/>
+      </i>
+      <i name="z" value="0"/>
+      <i name="delay" value="80"/>
+      <i name="image" value="2001004.ball.1.png"/>
+    </i>
+    <i name="2">
+      <i name="origin">
+        <i name="x" value="16"/>
+        <i name="y" value="16"/>
+      </i>
+      <i name="z" value="0"/>
+      <i name="delay" value="80"/>
+      <i name="image" value="2001004.ball.2.png"/>
+    </i>
+    <i name="3">
+      <i name="origin">
+        <i name="x" value="16"/>
+        <i name="y" value="16"/>
+      </i>
+      <i name="z" value="0"/>
+      <i name="delay" value="80"/>
+      <i name="image" value="2001004.ball.3.png"/>
+    </i>
+  </i>
+  <i name="hit">
+    <i name="0">
+      <i name="0">
+        <i name="origin">
+          <i name="x" value="18"/>
+          <i name="y" value="18"/>
+        </i>
+        <i name="z" value="0"/>
+        <i name="delay" value="80"/>
+        <i name="image" value="2001004.hit.0.0.png"/>
+      </i>
+      <i name="1">
+        <i name="origin">
+          <i name="x" value="27"/>
+          <i name="y" value="26"/>
+        </i>
+        <i name="z" value="0"/>
+        <i name="delay" value="80"/>
+        <i name="image" value="2001004.hit.0.1.png"/>
+      </i>
+      <i name="2">
+        <i name="origin">
+          <i name="x" value="33"/>
+          <i name="y" value="35"/>
+        </i>
+        <i name="z" value="1"/>
+        <i name="delay" value="80"/>
+        <i name="image" value="2001004.hit.0.2.png"/>
+      </i>
+    </i>
+    <i name="1">
+      <i name="0">
+        <i name="origin">
+          <i name="x" value="18"/>
+          <i name="y" value="18"/>
+        </i>
+        <i name="z" value="0"/>
+        <i name="image" value="2001004.hit.1.0.png"/>
+      </i>
+      <i name="1">
+        <i name="origin">
+          <i name="x" value="27"/>
+          <i name="y" value="26"/>
+        </i>
+        <i name="z" value="0"/>
+        <i name="image" value="2001004.hit.1.1.png"/>
+      </i>
+      <i name="2">
+        <i name="origin">
+          <i name="x" value="31"/>
+          <i name="y" value="35"/>
+        </i>
+        <i name="z" value="0"/>
+        <i name="image" value="2001004.hit.1.2.png"/>
+      </i>
+    </i>
+  </i>
+  </i>

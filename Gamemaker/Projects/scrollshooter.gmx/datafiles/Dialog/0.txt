@@ -1,0 +1,18 @@
+[text]
+text[0,0]=Hello#I am Fanzy of Ellinia#I am the best taxi out there you can get!
+text[1,0]= If you'd like to leave , I can take you to the forests deep inside Ellinia ,where hatred embraces.
+text[2,0]=(OPTION): The area you're about to go to is where monsters live. I suggest you stack some potions and perform necessary upgrades beforehand
+op0[2,0]=Take me there.:Potions?Where can I get them?:Can you tell me more about this place:
+op1[2,0]=0,1|:0,5|:0,6|:
+text[0,1]=(OPTION): Please check if there is any business left to take care of as there will be no going back once you proceed
+op0[0,1]=Wait, I have some business left:No,I am ready to leave:
+op1[0,1]=0,2|showChat|:0,3|scrLeaveRoom();#|showChat|:
+text[0,2]= Hello#|line(1,0)|
+text[0,5]=Merchants sell them.Spend wisely though,you might not have enough money when you need it most !|showChat|line(0,2)|
+text[0,6]=Oh ,it seems like you're here for the first time?#This is Ellinia , the forest of magic , once pure but now tainted.
+text[1,6]=Pixies were friendly beings from Ossyria , they used to reside peacefully in Ellinia , their second home 
+text[2,6]=But one day,catastrophe arrives , star and lunar pixies lost their light.Hope soon diminished and so was happiness
+text[3,6]=Ellinia fell to rage and coldness : Eliza unleashes her wrath of fury....#If only there was a savior , bringing warmth to the trees and waters of Ellinia|showChat|line(0,2)|
+[config]
+[vars]
+vars=9201000000000000
